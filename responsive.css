@@ -1,0 +1,171 @@
+@media screen and (max-width:767px) {
+    .main-banner {
+        height: 393px;
+    }
+}
+
+@media screen and (max-width:576px) {
+    .main-banner {
+        height: 310px;
+    }
+}
+
+@media screen and (max-width:359px) {
+    .main-banner {
+        height: 349px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .main-banner h1 {
+        font-size: 33px !important;
+    }
+
+    .main-banner h2 {
+        font-size: 24px;
+    }
+}
+
+@media screen and (max-width: 993px) {
+    .main-banner h3 {
+        font-size: 19px !important;
+    }
+}
+
+@media screen and (max-width: 774px) {
+    .main-banner h1 {
+        font-size: 28px !important;
+    }
+
+    .main-banner h2 {
+        font-size: 20px;
+        margin: 0;
+    }
+
+    .main-banner h3 {
+        font-size: 15px !important;
+    }
+}
+
+@media screen and (max-width: 585px) {
+    .main-banner h1 {
+        font-size: 16px !important;
+    }
+
+    .main-banner h2 {
+        font-size: 13px;
+        margin: 0;
+    }
+
+    .main-banner h3 {
+        font-size: 9px !important;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .why-ubuy-app {
+        padding-top: 8rem;
+    }
+}
+
+@media screen and (max-width:576px) {
+    .why-ubuy-app {
+        padding-top: 4rem;
+    }
+
+    .why-ubuy-app h2 {
+        font-size: 16px !important;
+        text-align: center;
+        margin-bottom: 1rem !important;
+    }
+
+    .why-ubuy-app p {
+        font-size: 14px !important;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:995px) {
+    .shopping-made-easy h2 {
+        font-size: 32px !important;
+    }
+}
+
+@media screen and (max-width:775px) {
+    .shopping-made-easy h2 {
+        font-size: 21px !important;
+    }
+
+    .products-worldwide,
+    .shopping-made-easy p {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width:485px) {
+
+    .products-worldwide,
+    .shopping-made-easy h2 {
+        font-size: 12px !important;
+    }
+
+    .products-worldwide,
+    .shopping-made-easy p {
+        font-size: 8px;
+    }
+}
+
+@media screen and (max-width:767px) {
+    .border-shopping-made-easy-4 {
+        border-right: 0 !important;
+        border-left: 1px solid #dee2e6 !important;
+    }
+
+    .border-shopping-made-easy-2 {
+        border-right: 0 !important;
+    }
+}
+
+@media screen and (max-width:1366px) {
+    .padding-Download-Shopping-App {
+        padding: 163px 0;
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .padding-Download-Shopping-App {
+        padding: 100px 0;
+    }
+}
+
+@media screen and (max-width:830px) {
+    .padding-Download-Shopping-App {
+        padding: 55px 0;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .padding-Download-Shopping-App {
+        padding: 40px 0;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    .padding-Download-Shopping-App img {
+        width: 100px;
+    }
+
+    .padding-Download-Shopping-App div {
+        margin: 0 !important;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    .padding-Download-Shopping-App img {
+        width: 70px;
+    }
+
+    .padding-Download-Shopping-App div {
+        margin: 0 !important;
+    }
+}
